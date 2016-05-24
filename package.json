@@ -1,0 +1,15 @@
+{
+  "name": "irc2sonarr",
+  "version": "1.0.0",
+  "description": "Listens to IRC, sends to Sonarr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@Bre77",
+  "license": "None",
+  "dependencies": {
+    "irc": "^0.5.0",
+    "request": "^2.72.0"
+  }
+}
